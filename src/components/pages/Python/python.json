@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "key": 0,
+      "code": "diagonal difference in matrix",
+      "code": "asdf",
+      "link": "https://rodgersea.github.io/hw_2/"
+    },
+    {
+      "key": 1,
+      "activity": "staircase of n height",
+      "code": "https://github.com/rodgersea/hw_2",
+      "link": "https://rodgersea.github.io/hw_2/"
+    },
+    {
+      "key": 2,
+      "activity": "mini-max sum",
+      "code": "https://github.com/rodgersea/hw_2",
+      "link": "https://rodgersea.github.io/hw_2/"
+    },
+    {
+      "key": 3,
+      "activity": "search for embedded matrix",
+      "code": "https://github.com/rodgersea/hw_2",
+      "link": "https://rodgersea.github.io/hw_2/"
+    },
+    {
+      "key": 4,
+      "activity": "check if array is sortable",
+      "code": "https://github.com/rodgersea/hw_2",
+      "link": "https://rodgersea.github.io/hw_2/"
+    },
+    {
+      "key": 5,
+      "activity": "strange counter",
+      "code": "https://github.com/rodgersea/hw_2",
+      "link": "https://rodgersea.github.io/hw_2/"
+    },
+    {
+      "key": 6,
+      "activity": "3d surface area",
+      "code": "https://github.com/rodgersea/hw_2",
+      "link": "https://rodgersea.github.io/hw_2/"
+    }
+  ]
+}

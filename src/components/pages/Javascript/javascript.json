@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "key": 0,
+      "activity": "random color rgb format",
+      "content": "https://rodgersea.github.io/portfolio_1/javascript/rgb/index.html"
+    },
+    {
+      "key": 1,
+      "activity": "random color hex format",
+      "content": "https://rodgersea.github.io/portfolio_1/javascript/hex/index.html"
+    },
+    {
+      "key": 2,
+      "activity": "print user input to screen",
+      "content": "https://rodgersea.github.io/portfolio_1/javascript/pass_Quote/index.html"
+    },
+    {
+      "key": 3,
+      "activity": "increment/decrement value on screen",
+      "content": "https://rodgersea.github.io/portfolio_1/javascript/counter/index.html"
+    },
+    {
+      "key": 4,
+      "activity": "loops through an array of images",
+      "content": "https://rodgersea.github.io/portfolio_1/javascript/image_Slider/index.html"
+    },
+    {
+      "key": 5,
+      "activity": "tool for calculating tips",
+      "content": "https://rodgersea.github.io/portfolio_1/javascript/tip_Calc/index.html"
+    },
+    {
+      "key": 6,
+      "activity": "crappy calculator",
+      "content": "https://rodgersea.github.io/portfolio_1/javascript/calc/index.html"
+    },
+    {
+      "key": 7,
+      "activity": "grid of random color squares",
+      "content": "https://rodgersea.github.io/portfolio_1/javascript/color_Grid/index.html"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "projects": [
+    {
+      "key": 0,
+      "activity": "mock portfolio",
+      "content": "https://github.com/rodgersea/hw_2",
+      "deployed": "https://rodgersea.github.io/hw_2/"
+    },
+    {
+      "key": 1,
+      "activity": "password generator",
+      "content": "https://github.com/rodgersea/hw_3",
+      "deployed": "https://rodgersea.github.io/hw_3/"
+    },
+    {
+      "key": 2,
+      "activity": "multiple choice quiz",
+      "content": "https://github.com/rodgersea/hw_4",
+      "deployed": "https://rodgersea.github.io/hw_4/"
+    },
+    {
+      "key": 4,
+      "activity": "weather app made with api",
+      "content": "https://github.com/rodgersea/hw_6",
+      "deployed": "https://rodgersea.github.io/hw_6/"
+    },
+    {
+      "key": 5,
+      "activity": "group project, gas/electric car fuel map with api",
+      "content": "https://github.com/Team6DiamondPlatipi/TechnicallyAMammal",
+      "deployed": "https://team6diamondplatipi.github.io/TechnicallyAMammal/"
+    },
+    {
+      "key": 6,
+      "activity": "dynamically generate readme for file",
+      "content": "https://github.com/rodgersea/hw_9",
+      "deployed": ""
+    },
+    {
+      "key": 7,
+      "activity": "note taker on server",
+      "content": "https://github.com/rodgersea/hw_11",
+      "deployed": "https://damp-meadow-20864.herokuapp.com/"
+    },
+    {
+      "key": 8,
+      "activity": "command line employee tracker with sql",
+      "content": "https://github.com/rodgersea/hw_12",
+      "deployed": ""
+    },
+    {
+      "key": 9,
+      "activity": "node express sandwich tracker",
+      "content": "https://github.com/rodgersea/hw_13",
+      "deployed": "https://dashboard.heroku.com/apps/peaceful-taiga-27602"
+    },
+    {
+      "key": 10,
+      "activity": "group project student teaching interactive calendar",
+      "content": "https://github.com/Mpolan16/project2-jjem",
+      "deployed": "https://afternoon-eyrie-99732.herokuapp.com/"
+    },
+    {
+      "key": 11,
+      "activity": "PWA budget tracker",
+      "content": "https://github.com/rodgersea/hw_18_pwa",
+      "deployed": "https://shrouded-bayou-85826.herokuapp.com/"
+    },
+    {
+      "key": 12,
+      "activity": "React user directory",
+      "content": "https://github.com/rodgersea/hw_19_Emp_Dir",
+      "deployed": "https://rodgersea.github.io/hw_19_Emp_Dir/"
+    }
+  ]
+}

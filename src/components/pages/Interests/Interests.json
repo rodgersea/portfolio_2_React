@@ -1,0 +1,29 @@
+{
+  "interests": [
+    {
+      "key": 0,
+      "activity": "rock climbing",
+      "content": "I started rock climbing early in college and have spent an immense amount of time practicing this sport."
+    },
+    {
+      "key": 1,
+      "activity": "running",
+      "content": "I started taking running seriously around february and really picked up the pace once the corona pandemic hit. With all of the climbing gyms closed, I haven't had much else to do besides run. I ran my first marathon halfway through april and had a great time."
+    },
+    {
+      "key": 2,
+      "activity": "reading",
+      "content": "I haven't had as much time to read as I'd like since I started learning to code. Before this course started I read a lot in spanish and english, but lately I've only had time for english reading.  I'm working through Dune currently."
+    },
+    {
+      "key": 3,
+      "activity": "slacklining",
+      "content": "I was introduced to slacklining early in college and I spent an embarassingly long time practicing all kinds of tricks and movementwith the slackline."
+    },
+    {
+      "key": 4,
+      "activity": "disc golf",
+      "content": "My dad introduced me to disc golf in high school and it has been an activity that we do as a family ever since."
+    }
+  ]
+}
