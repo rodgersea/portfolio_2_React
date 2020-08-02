@@ -1,6 +1,6 @@
 {
-  "homepage": "http://rodgersea.github.io/{portfolio_2}",
-  "name": "portfolio_2",
+  "homepage": "http://rodgersea.github.io/portfolio_2/",
+  "name": "react-github-pages",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
