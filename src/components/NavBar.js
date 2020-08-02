@@ -12,9 +12,9 @@ function NavBar(props) {
         </a>
         <a 
           role='button'
-          href='#interests'
-          onClick={() => props.handlePageChange('Interests')}
-          >Interests
+          href='#schoolwork'
+          onClick={() => props.handlePageChange('SchoolWork')}
+          >School Work
         </a>
         <a 
           role='button'
@@ -24,16 +24,16 @@ function NavBar(props) {
         </a>
         <a 
           role='button'
-          href='#schoolwork'
-          onClick={() => props.handlePageChange('SchoolWork')}
-          >School Work
+          href='#interests'
+          onClick={() => props.handlePageChange('Interests')}
+          >Interests
         </a>
-        <a 
+        {/* <a 
           role='button'
           href='#python'
           onClick={() => props.handlePageChange('Python')}
           >Python
-        </a>
+        </a> */}
       </div>
       
     </header>
